@@ -1,6 +1,6 @@
 # CS3001_crazycolors_AU19B1010
 ##A simple python game on colors
-
+                                                                             Crazy colors
 
 ##Introduction:
 This game includes entertainment and education both. Basically it is for children less than 12 years. This game is designed by seeing that today’s child generation have less knowledge of colors and there respond time is also less. So, to increase the knowledge in color and increase in respond time this game is designed. It’s a very simple game.
@@ -17,3 +17,13 @@ These rules and regulations will be given in the game also:
 5.	If the answer is wrong then you will get one more chance for the same and if again it goes wrong the game will automatically get over.
 6.	The score will get updated as you go ahead in the game by +1.
 7.	You can also quit the game at the same time.
+
+![Image](https://github.com/Anamit13/CS3001_crazycolors_AU19B1010/blob/Readme/pic1.PNG)
+
+![Image](https://github.com/Anamit13/CS3001_crazycolors_AU19B1010/blob/Readme/pic2.PNG)
+
+![Image](https://github.com/Anamit13/CS3001_crazycolors_AU19B1010/blob/Readme/pic3.PNG)
+
+![Image](https://github.com/Anamit13/CS3001_crazycolors_AU19B1010/blob/Readme/pic4.PNG)
+
+![Image](https://github.com/Anamit13/CS3001_crazycolors_AU19B1010/blob/Readme/pic5.PNG)
