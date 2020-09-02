@@ -30,6 +30,15 @@ So, this a python game so of course it will require some technical requirements 
 	To set the time limit for user input we have to import time module which can represent the time in code.
 	We’ve to include random module also to generate random color on the screen after each user input.
 
+Decomposition:
+•	How to generate random color on the screen.
+•	How to use the time module to deal with the time limit.
+•	How to make the game interactive with user.
+•	How to take user input on the screen.
+•	How to check whether the user input is correct or not.
+•	How to end the game.
+
+
 ![Image](https://github.com/Anamit13/CS3001_crazycolors_AU19B1010/blob/Readme/pic1.PNG)
 
 ![Image](https://github.com/Anamit13/CS3001_crazycolors_AU19B1010/blob/Readme/pic2.PNG)
